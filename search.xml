@@ -43,6 +43,18 @@
         <content type="html"><![CDATA[<p>内容</p>]]></content>
       
       
+      <categories>
+          
+          <category> 分类一 </category>
+          
+          <category> 子分类1 </category>
+          
+          <category> 分类二 </category>
+          
+          <category> 子分类1 </category>
+          
+      </categories>
+      
       
     </entry>
     
